@@ -11,13 +11,13 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Mess
 import re
 
 # Bot Token
-BOT_TOKEN = "8312225271:AAHpHcdUEi_xV9CaNrFAgXm-KM_JdJIm4kc"
+BOT_TOKEN = ""
 
 # Gmail Accounts
 ACCOUNTS = [
-    {"email": "task7827k@gmail.com", "password": "vhnb qxuy dfhi gfcj"},
-    {"email": "you260411@gmail.com", "password": "dpvd khof ttfo byod"},
-    {"email": "Gogoboomber7824@gmail.com", "password": "poqd bmiz ncrl itvy"}
+    {"email": "tk7827k@gmail.com", "password": "vhnb uy dfhi gfcj"},
+    {"email": "you0411@gmail.com", "password": "dpvd f ttfo byod"},
+    {"email": "Gogobober7824@gmail.com", "password": "p bmiz ncrl itvy"}
 ]
 
 # Simple Message (Not aggressive)
